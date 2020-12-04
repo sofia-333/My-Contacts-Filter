@@ -1,0 +1,25 @@
+body{
+    padding:60px;
+    text-align: center;
+    background-color: rgb(167, 196, 204);
+}
+li{
+    list-style-type:none;
+    text-align: left;
+    border-bottom: solid rgb(104, 162, 179) 1px;
+    padding: 15px 2px;
+}
+a{
+    text-decoration: none;
+    color: rgb(24, 82, 82);
+}
+.header-item{
+    font-size: 20px;
+    color: darkslategrey;
+}
+#input{
+    width: 98%;
+}
+h1{
+    color: rgb(24, 82, 82);
+}
